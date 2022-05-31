@@ -1,0 +1,3 @@
+copy folder modul_web1 kedalam folder htdocs yang ada di dalam folder xampp.
+
+untuk folder program-css di copy kedalam folder htdocs
